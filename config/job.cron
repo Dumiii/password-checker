@@ -1,0 +1,3 @@
+# Run job every sunday at 00:00
+
+0 0 * * SUN
